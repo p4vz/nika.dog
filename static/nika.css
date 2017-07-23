@@ -1,7 +1,9 @@
-img {
+.carousel-item > img {
+	margin: 0 auto;
 	object-fit: contain;
 }
 
 .carousel-item {
+	height: 100vh;
 	max-height: 100vh;
 }
